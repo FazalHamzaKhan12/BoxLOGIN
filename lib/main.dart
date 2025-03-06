@@ -165,7 +165,7 @@ class MyApp extends StatelessWidget {
                 )), // Add a color or any other property you need
               ),
               const SizedBox(
-                height: 15,
+                height: 18,
               ),
               const Row(
                 mainAxisAlignment: MainAxisAlignment.center,
